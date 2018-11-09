@@ -1,3 +1,3 @@
 # Hello-World
-# this is the first program here
-# from now on , I can use GitHub。
+## This is the first program here
+### From now on , I can use GitHub.
